@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../fire"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "fire"
+  }
+}
